@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+Flask
+Jinja2
+urllib3
+Keras-Preprocessing
+Pillow
+tensorboard
+tensorflow
+Werkzeug
+certifi
+chardet
+gunicorn
+requests
